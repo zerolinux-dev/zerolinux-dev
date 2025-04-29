@@ -66,7 +66,7 @@ Tool for scanning Docker containers for vulnerabilities and potential security i
 </div>
 
 <div align="center">
-  <img src="https://github.com/zerolinux-dev/zerolinux-dev/raw/main/assets/neofetch.png" alt="https://media-hosting.imagekit.io/d4ae0bbb62e14d39/1000006941.png?Expires=1840503395&Key-Pair-Id=K2ZIVPTIP2VGHC&Signature=IHFGJK7yw4Si~xHUiAv9YzDaoP~i1GfArrChMk1bY-VyUztoOrFbU4DfP7hkr7ffQEAwx1-fqQOrSYuWdvXrvGw~OA5CSPa7pIgudutSMtjNxne9C-3KXUrB3Zss2gd4uPKw5yRQFOaC32jw2Rvq7YnBVLsMM91ojQTyyYYtO1f0v3YZimJXpB9EI8-j6oFs9TYQrYzlvsDQub9EZYaaNQOJmk408cJ4cjabgcE55FqMVzcRI4kPaux3JLjknrFo7UsTtpWUqmTLVU44rx2a2IOmDqx6Z8n-GAJRzZqpCC~aMQAtv87N5Djisrtj5btjSvQtwlb4sGN6ltPy8o3oYA__" width="600" />
+  <img src="https://github.com/zerolinux-dev/zerolinux-dev/raw/main/assets/neofetch.png" alt="Neofetch Screenshot" width="600" />
 </div>
 
 ## 🌐 Connect with us on Social
