@@ -28,100 +28,269 @@ Software developer and Linux enthusiast with a passion for open-source technolog
 ## 🏆 Achievements
 
 <div align="center">
-  <table>
-    <tr>
-      <td align="center">
-        <div style="background:#121212; border-radius:10px; padding:10px; margin:5px; width:150px; border:2px solid #ff69b4;">
-          <div style="color:#ff69b4; font-weight:bold; font-size:18px;">Pull Request</div>
-          <div style="margin:10px;">
-            <span style="background:#f9d423; color:black; font-weight:bold; display:inline-block; width:40px; height:40px; line-height:40px; border-radius:50%; font-size:20px;">S</span>
-          </div>
-          <div style="font-weight:bold; color:white;">Super Dev</div>
-          <div style="color:#ff69b4; font-size:14px;">17xp</div>
-          <div style="background:#ff69b4; height:5px; width:90%; margin:5px auto; border-radius:3px;"></div>
-        </div>
-      </td>
-      <td align="center">
-        <div style="background:#121212; border-radius:10px; padding:10px; margin:5px; width:150px; border:2px solid #ff69b4;">
-          <div style="color:#ff69b4; font-weight:bold; font-size:18px;">Commit</div>
-          <div style="margin:10px;">
-            <span style="background:#00ffff; color:black; font-weight:bold; display:inline-block; width:40px; height:40px; line-height:40px; border-radius:50%; font-size:20px;">A</span>
-          </div>
-          <div style="font-weight:bold; color:white;">Ultra Committer</div>
-          <div style="color:#ff69b4; font-size:14px;">24xp</div>
-          <div style="background:#ff69b4; height:5px; width:90%; margin:5px auto; border-radius:3px;"></div>
-        </div>
-      </td>
-      <td align="center">
-        <div style="background:#121212; border-radius:10px; padding:10px; margin:5px; width:150px; border:2px solid #ff69b4;">
-          <div style="color:#ff69b4; font-weight:bold; font-size:18px;">Repositories</div>
-          <div style="margin:10px;">
-            <span style="background:#ff6b6b; color:black; font-weight:bold; display:inline-block; width:40px; height:40px; line-height:40px; border-radius:50%; font-size:20px;">B</span>
-          </div>
-          <div style="font-weight:bold; color:white;">Middle Rare Creator</div>
-          <div style="color:#ff69b4; font-size:14px;">13xp</div>
-          <div style="background:#ff69b4; height:5px; width:60%; margin:5px auto; border-radius:3px;"></div>
-        </div>
-      </td>
-      <td align="center">
-        <div style="background:#121212; border-radius:10px; padding:10px; margin:5px; width:150px; border:2px solid #ff69b4;">
-          <div style="color:#ff69b4; font-weight:bold; font-size:18px;">Experience</div>
-          <div style="margin:10px;">
-            <span style="background:#ff6b6b; color:black; font-weight:bold; display:inline-block; width:40px; height:40px; line-height:40px; border-radius:50%; font-size:20px;">B</span>
-          </div>
-          <div style="font-weight:bold; color:white;">Junior Dev</div>
-          <div style="color:#ff69b4; font-size:14px;">9xp</div>
-          <div style="background:#ff69b4; height:5px; width:40%; margin:5px auto; border-radius:3px;"></div>
-        </div>
-      </td>
-    </tr>
-    <tr>
-      <td align="center">
-        <div style="background:#121212; border-radius:10px; padding:10px; margin:5px; width:150px; border:2px solid #ff69b4;">
-          <div style="color:#ff69b4; font-weight:bold; font-size:18px;">Following</div>
-          <div style="margin:10px;">
-            <span style="background:#7f8cff; color:black; font-weight:bold; display:inline-block; width:40px; height:40px; line-height:40px; border-radius:50%; font-size:20px;">C</span>
-          </div>
-          <div style="font-weight:bold; color:white;">First Friend</div>
-          <div style="color:#ff69b4; font-size:14px;">4xp</div>
-          <div style="background:#ff69b4; height:5px; width:25%; margin:5px auto; border-radius:3px;"></div>
-        </div>
-      </td>
-      <td align="center">
-        <div style="background:#121212; border-radius:10px; padding:10px; margin:5px; width:150px; border:2px solid #ff69b4;">
-          <div style="color:#ff69b4; font-weight:bold; font-size:18px;">Stars</div>
-          <div style="margin:10px;">
-            <span style="background:#c9c9c9; color:black; font-weight:bold; display:inline-block; width:40px; height:40px; line-height:40px; border-radius:50%; font-size:20px;">?</span>
-          </div>
-          <div style="font-weight:bold; color:white;">Unknown</div>
-          <div style="color:#ff69b4; font-size:14px;">0xp</div>
-          <div style="background:#ff69b4; height:5px; width:10%; margin:5px auto; border-radius:3px;"></div>
-        </div>
-      </td>
-      <td align="center">
-        <div style="background:#121212; border-radius:10px; padding:10px; margin:5px; width:150px; border:2px solid #ff69b4;">
-          <div style="color:#ff69b4; font-weight:bold; font-size:18px;">Issues</div>
-          <div style="margin:10px;">
-            <span style="background:#c9c9c9; color:black; font-weight:bold; display:inline-block; width:40px; height:40px; line-height:40px; border-radius:50%; font-size:20px;">?</span>
-          </div>
-          <div style="font-weight:bold; color:white;">Unknown</div>
-          <div style="color:#ff69b4; font-size:14px;">0xp</div>
-          <div style="background:#ff69b4; height:5px; width:10%; margin:5px auto; border-radius:3px;"></div>
-        </div>
-      </td>
-      <td align="center">
-        <div style="background:#121212; border-radius:10px; padding:10px; margin:5px; width:150px; border:2px solid #ff69b4;">
-          <div style="color:#ff69b4; font-weight:bold; font-size:18px;">Reviews</div>
-          <div style="margin:10px;">
-            <span style="background:#c9c9c9; color:black; font-weight:bold; display:inline-block; width:40px; height:40px; line-height:40px; border-radius:50%; font-size:20px;">?</span>
-          </div>
-          <div style="font-weight:bold; color:white;">Unknown</div>
-          <div style="color:#ff69b4; font-size:14px;">0xp</div>
-          <div style="background:#ff69b4; height:5px; width:10%; margin:5px auto; border-radius:3px;"></div>
-        </div>
-      </td>
-    </tr>
-  </table>
+  <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 250" width="1000" height="250">
+    <!-- Styles -->
+    <defs>
+      <linearGradient id="bgGradient" x1="0%" y1="0%" x2="0%" y2="100%">
+        <stop offset="0%" stop-color="#252a33" />
+        <stop offset="100%" stop-color="#1a1e24" />
+      </linearGradient>
+      
+      <!-- Trophy gradients -->
+      <linearGradient id="goldGradient" x1="0%" y1="0%" x2="100%" y2="100%">
+        <stop offset="0%" stop-color="#ffd700" />
+        <stop offset="100%" stop-color="#ff9d00" />
+      </linearGradient>
+      
+      <linearGradient id="purpleGradient" x1="0%" y1="0%" x2="100%" y2="100%">
+        <stop offset="0%" stop-color="#a742f5" />
+        <stop offset="100%" stop-color="#7F00FF" />
+      </linearGradient>
+      
+      <linearGradient id="blueGradient" x1="0%" y1="0%" x2="100%" y2="100%">
+        <stop offset="0%" stop-color="#42c6f5" />
+        <stop offset="100%" stop-color="#3daee9" />
+      </linearGradient>
+      
+      <linearGradient id="redGradient" x1="0%" y1="0%" x2="100%" y2="100%">
+        <stop offset="0%" stop-color="#ff5757" />
+        <stop offset="100%" stop-color="#ff0000" />
+      </linearGradient>
+      
+      <linearGradient id="silverGradient" x1="0%" y1="0%" x2="100%" y2="100%">
+        <stop offset="0%" stop-color="#e0e0e0" />
+        <stop offset="100%" stop-color="#b0b0b0" />
+      </linearGradient>
+      
+      <linearGradient id="progressBar1" x1="0%" y1="0%" x2="100%" y2="0%">
+        <stop offset="0%" stop-color="#ff5757" />
+        <stop offset="100%" stop-color="#ff0000" />
+      </linearGradient>
+      
+      <linearGradient id="progressBar2" x1="0%" y1="0%" x2="100%" y2="0%">
+        <stop offset="0%" stop-color="#a742f5" />
+        <stop offset="100%" stop-color="#7F00FF" />
+      </linearGradient>
+      
+      <linearGradient id="progressBar3" x1="0%" y1="0%" x2="100%" y2="0%">
+        <stop offset="0%" stop-color="#42c6f5" />
+        <stop offset="100%" stop-color="#3daee9" />
+      </linearGradient>
+      
+      <filter id="dropShadow" x="-20%" y="-20%" width="140%" height="140%">
+        <feGaussianBlur stdDeviation="2" />
+        <feOffset dx="0" dy="2" />
+        <feComposite operator="out" in="SourceGraphic" />
+      </filter>
+    </defs>
+    
+    <!-- Badge 1: Super Donor -->
+    <g transform="translate(50, 50)">
+      <rect x="0" y="0" width="160" height="160" rx="10" ry="10" fill="url(#bgGradient)" stroke="#404040" stroke-width="2" />
+      
+      <g transform="translate(80, 65)">
+        <ellipse cx="0" cy="0" rx="40" ry="40" fill="url(#goldGradient)" />
+        <ellipse cx="0" cy="0" rx="32" ry="32" fill="#f8f8f8" />
+        <text x="0" y="12" font-family="Arial, sans-serif" font-size="36" font-weight="bold" text-anchor="middle" fill="#404040">S</text>
+      </g>
+      
+      <g transform="translate(80, 20)">
+        <text x="0" y="0" font-family="Arial, sans-serif" font-size="18" font-weight="bold" text-anchor="middle" fill="#ff5ebc">Pull Request</text>
+      </g>
+      
+      <g transform="translate(80, 125)">
+        <text x="0" y="0" font-family="Arial, sans-serif" font-size="16" font-weight="bold" text-anchor="middle" fill="#f8f8f8">Super Donor</text>
+        <text x="0" y="20" font-family="Arial, sans-serif" font-size="14" font-weight="bold" text-anchor="middle" fill="#a0a0a0">37pt</text>
+      </g>
+      
+      <rect x="10" y="150" width="140" height="5" rx="2.5" ry="2.5" fill="#2a2e35" />
+      <rect x="10" y="150" width="100" height="5" rx="2.5" ry="2.5" fill="url(#progressBar1)" />
+    </g>
+    
+    <!-- Badge 2: Ultra Committer -->
+    <g transform="translate(230, 50)">
+      <rect x="0" y="0" width="160" height="160" rx="10" ry="10" fill="url(#bgGradient)" stroke="#404040" stroke-width="2" />
+      
+      <g transform="translate(80, 65)">
+        <ellipse cx="0" cy="0" rx="40" ry="40" fill="url(#blueGradient)" />
+        <ellipse cx="0" cy="0" rx="32" ry="32" fill="#f8f8f8" />
+        <text x="0" y="12" font-family="Arial, sans-serif" font-size="36" font-weight="bold" text-anchor="middle" fill="#404040">A</text>
+      </g>
+      
+      <g transform="translate(80, 20)">
+        <text x="0" y="0" font-family="Arial, sans-serif" font-size="18" font-weight="bold" text-anchor="middle" fill="#42c6f5">Commits</text>
+      </g>
+      
+      <g transform="translate(80, 125)">
+        <text x="0" y="0" font-family="Arial, sans-serif" font-size="16" font-weight="bold" text-anchor="middle" fill="#f8f8f8">Ultra Committer</text>
+        <text x="0" y="20" font-family="Arial, sans-serif" font-size="14" font-weight="bold" text-anchor="middle" fill="#a0a0a0">64pt</text>
+      </g>
+      
+      <rect x="10" y="150" width="140" height="5" rx="2.5" ry="2.5" fill="#2a2e35" />
+      <rect x="10" y="150" width="130" height="5" rx="2.5" ry="2.5" fill="url(#progressBar3)" />
+    </g>
+    
+    <!-- Badge 3: Middle Repo Creator -->
+    <g transform="translate(410, 50)">
+      <rect x="0" y="0" width="160" height="160" rx="10" ry="10" fill="url(#bgGradient)" stroke="#404040" stroke-width="2" />
+      
+      <g transform="translate(80, 65)">
+        <ellipse cx="0" cy="0" rx="40" ry="40" fill="url(#redGradient)" />
+        <ellipse cx="0" cy="0" rx="32" ry="32" fill="#f8f8f8" />
+        <text x="0" y="12" font-family="Arial, sans-serif" font-size="36" font-weight="bold" text-anchor="middle" fill="#404040">B</text>
+      </g>
+      
+      <g transform="translate(80, 20)">
+        <text x="0" y="0" font-family="Arial, sans-serif" font-size="18" font-weight="bold" text-anchor="middle" fill="#ff5757">Repositories</text>
+      </g>
+      
+      <g transform="translate(80, 125)">
+        <text x="0" y="0" font-family="Arial, sans-serif" font-size="16" font-weight="bold" text-anchor="middle" fill="#f8f8f8">Middle Repo Creator</text>
+        <text x="0" y="20" font-family="Arial, sans-serif" font-size="14" font-weight="bold" text-anchor="middle" fill="#a0a0a0">13pt</text>
+      </g>
+      
+      <rect x="10" y="150" width="140" height="5" rx="2.5" ry="2.5" fill="#2a2e35" />
+      <rect x="10" y="150" width="50" height="5" rx="2.5" ry="2.5" fill="url(#progressBar1)" />
+    </g>
+    
+    <!-- Badge 4: Junior Dev -->
+    <g transform="translate(590, 50)">
+      <rect x="0" y="0" width="160" height="160" rx="10" ry="10" fill="url(#bgGradient)" stroke="#404040" stroke-width="2" />
+      
+      <g transform="translate(80, 65)">
+        <ellipse cx="0" cy="0" rx="40" ry="40" fill="url(#redGradient)" />
+        <ellipse cx="0" cy="0" rx="32" ry="32" fill="#f8f8f8" />
+        <text x="0" y="12" font-family="Arial, sans-serif" font-size="36" font-weight="bold" text-anchor="middle" fill="#404040">B</text>
+      </g>
+      
+      <g transform="translate(80, 20)">
+        <text x="0" y="0" font-family="Arial, sans-serif" font-size="18" font-weight="bold" text-anchor="middle" fill="#ff5757">Experience</text>
+      </g>
+      
+      <g transform="translate(80, 125)">
+        <text x="0" y="0" font-family="Arial, sans-serif" font-size="16" font-weight="bold" text-anchor="middle" fill="#f8f8f8">Junior Dev</text>
+        <text x="0" y="20" font-family="Arial, sans-serif" font-size="14" font-weight="bold" text-anchor="middle" fill="#a0a0a0">9pt</text>
+      </g>
+      
+      <rect x="10" y="150" width="140" height="5" rx="2.5" ry="2.5" fill="#2a2e35" />
+      <rect x="10" y="150" width="80" height="5" rx="2.5" ry="2.5" fill="url(#progressBar1)" />
+    </g>
+    
+    <!-- Badge 5: First Friend -->
+    <g transform="translate(770, 50)">
+      <rect x="0" y="0" width="160" height="160" rx="10" ry="10" fill="url(#bgGradient)" stroke="#404040" stroke-width="2" />
+      
+      <g transform="translate(80, 65)">
+        <ellipse cx="0" cy="0" rx="40" ry="40" fill="url(#silverGradient)" />
+        <ellipse cx="0" cy="0" rx="32" ry="32" fill="#f8f8f8" />
+        <text x="0" y="12" font-family="Arial, sans-serif" font-size="36" font-weight="bold" text-anchor="middle" fill="#404040">C</text>
+      </g>
+      
+      <g transform="translate(80, 20)">
+        <text x="0" y="0" font-family="Arial, sans-serif" font-size="18" font-weight="bold" text-anchor="middle" fill="#a0b5ff">Followers</text>
+      </g>
+      
+      <g transform="translate(80, 125)">
+        <text x="0" y="0" font-family="Arial, sans-serif" font-size="16" font-weight="bold" text-anchor="middle" fill="#f8f8f8">First Friend</text>
+        <text x="0" y="20" font-family="Arial, sans-serif" font-size="14" font-weight="bold" text-anchor="middle" fill="#a0a0a0">4pt</text>
+      </g>
+      
+      <rect x="10" y="150" width="140" height="5" rx="2.5" ry="2.5" fill="#2a2e35" />
+      <rect x="10" y="150" width="30" height="5" rx="2.5" ry="2.5" fill="url(#progressBar2)" />
+    </g>
+    
+    <!-- Badge 6: Stars (Unknown) -->
+    <g transform="translate(50, 230)">
+      <rect x="0" y="0" width="160" height="160" rx="10" ry="10" fill="url(#bgGradient)" stroke="#404040" stroke-width="2" />
+      
+      <g transform="translate(80, 65)">
+        <ellipse cx="0" cy="0" rx="40" ry="40" fill="url(#purpleGradient)" />
+        <ellipse cx="0" cy="0" rx="32" ry="32" fill="#f8f8f8" />
+        <text x="0" y="12" font-family="Arial, sans-serif" font-size="36" font-weight="bold" text-anchor="middle" fill="#404040">?</text>
+      </g>
+      
+      <g transform="translate(80, 20)">
+        <text x="0" y="0" font-family="Arial, sans-serif" font-size="18" font-weight="bold" text-anchor="middle" fill="#a742f5">Stars</text>
+      </g>
+      
+      <g transform="translate(80, 125)">
+        <text x="0" y="0" font-family="Arial, sans-serif" font-size="16" font-weight="bold" text-anchor="middle" fill="#f8f8f8">Unknown</text>
+        <text x="0" y="20" font-family="Arial, sans-serif" font-size="14" font-weight="bold" text-anchor="middle" fill="#a0a0a0">0pt</text>
+      </g>
+      
+      <rect x="10" y="150" width="140" height="5" rx="2.5" ry="2.5" fill="#2a2e35" />
+      <rect x="10" y="150" width="0" height="5" rx="2.5" ry="2.5" fill="url(#progressBar2)" />
+    </g>
+
+    <!-- Badge 7: Issues (Unknown) -->
+    <g transform="translate(230, 230)">
+      <rect x="0" y="0" width="160" height="160" rx="10" ry="10" fill="url(#bgGradient)" stroke="#404040" stroke-width="2" />
+      
+      <g transform="translate(80, 65)">
+        <ellipse cx="0" cy="0" rx="40" ry="40" fill="url(#purpleGradient)" />
+        <ellipse cx="0" cy="0" rx="32" ry="32" fill="#f8f8f8" />
+        <text x="0" y="12" font-family="Arial, sans-serif" font-size="36" font-weight="bold" text-anchor="middle" fill="#404040">?</text>
+      </g>
+      
+      <g transform="translate(80, 20)">
+        <text x="0" y="0" font-family="Arial, sans-serif" font-size="18" font-weight="bold" text-anchor="middle" fill="#a742f5">Issues</text>
+      </g>
+      
+      <g transform="translate(80, 125)">
+        <text x="0" y="0" font-family="Arial, sans-serif" font-size="16" font-weight="bold" text-anchor="middle" fill="#f8f8f8">Unknown</text>
+        <text x="0" y="20" font-family="Arial, sans-serif" font-size="14" font-weight="bold" text-anchor="middle" fill="#a0a0a0">0pt</text>
+      </g>
+      
+      <rect x="10" y="150" width="140" height="5" rx="2.5" ry="2.5" fill="#2a2e35" />
+      <rect x="10" y="150" width="0" height="5" rx="2.5" ry="2.5" fill="url(#progressBar2)" />
+    </g>
+
+    <!-- Badge 8: Reviews (Unknown) -->
+    <g transform="translate(410, 230)">
+      <rect x="0" y="0" width="160" height="160" rx="10" ry="10" fill="url(#bgGradient)" stroke="#404040" stroke-width="2" />
+      
+      <g transform="translate(80, 65)">
+        <ellipse cx="0" cy="0" rx="40" ry="40" fill="url(#purpleGradient)" />
+        <ellipse cx="0" cy="0" rx="32" ry="32" fill="#f8f8f8" />
+        <text x="0" y="12" font-family="Arial, sans-serif" font-size="36" font-weight="bold" text-anchor="middle" fill="#404040">?</text>
+      </g>
+      
+      <g transform="translate(80, 20)">
+        <text x="0" y="0" font-family="Arial, sans-serif" font-size="18" font-weight="bold" text-anchor="middle" fill="#a742f5">Reviews</text>
+      </g>
+      
+      <g transform="translate(80, 125)">
+        <text x="0" y="0" font-family="Arial, sans-serif" font-size="16" font-weight="bold" text-anchor="middle" fill="#f8f8f8">Unknown</text>
+        <text x="0" y="20" font-family="Arial, sans-serif" font-size="14" font-weight="bold" text-anchor="middle" fill="#a0a0a0">0pt</text>
+      </g>
+      
+      <rect x="10" y="150" width="140" height="5" rx="2.5" ry="2.5" fill="#2a2e35" />
+      <rect x="10" y="150" width="0" height="5" rx="2.5" ry="2.5" fill="url(#progressBar2)" />
+    </g>
+
+    <!-- Badge 9: Custom -->
+    <g transform="translate(590, 230)" id="editable-badge">
+      <rect x="0" y="0" width="160" height="160" rx="10" ry="10" fill="url(#bgGradient)" stroke="#404040" stroke-width="2" />
+      
+      <g transform="translate(80, 65)">
+        <ellipse cx="0" cy="0" rx="40" ry="40" fill="url(#purpleGradient)" />
+        <ellipse cx="0" cy="0" rx="32" ry="32" fill="#f8f8f8" />
+        <text x="0" y="12" font-family="Arial, sans-serif" font-size="36" font-weight="bold" text-anchor="middle" fill="#404040">?</text>
+      </g>
+      
+      <g transform="translate(80, 20)">
+        <text x="0" y="0" font-family="Arial, sans-serif" font-size="18" font-weight="bold" text-anchor="middle" fill="#a742f5">Custom</text>
+      </g>
+      
+      <g transform="translate(80, 125)">
+        <text x="0" y="0" font-family="Arial, sans-serif" font-size="16" font-weight="bold" text-anchor="middle" fill="#f8f8f8">ZeroLinux Badge</text>
+        <text x="0" y="20" font-family="Arial, sans-serif" font-size="14" font-weight="bold" text-anchor="middle" fill="#a0a0a0">0pt</text>
+      </g>
+      
+      <rect x="10" y="150" width="140" height="5" rx="2.5" ry="2.5" fill="#2a2e35" />
+      <rect x="10" y="150" width="0" height="5" rx="2.5" ry="2.5" fill="url(#progressBar2)" />
+    </g>
+  </svg>
 </div>
 
 ## 🚀 My Skills
