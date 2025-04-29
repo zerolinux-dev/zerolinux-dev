@@ -1,7 +1,7 @@
 # Config Dump For...
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=40&duration=6000&color=7F00FF&center=true&vCenter=true&width=600&height=100&lines=XeroLinux" alt="XeroLinux" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=40&duration=6000&color=7F00FF&center=true&vCenter=true&width=600&height=100&lines=ZeroLinux" alt="ZeroLinux" />
 </div>
 
 <div align="center">
@@ -61,8 +61,8 @@ Tool for scanning Docker containers for vulnerabilities and potential security i
 ## 📚 War Fundraiser
 
 <div align="center">
-  <a href="#"><img src="https://img.shields.io/badge/☕_XEROLINUX-KO--FI-00b9fe?style=for-the-badge&logoColor=white&labelColor=595959" /></a>
-  <a href="#"><img src="https://img.shields.io/badge/💜_XEROLINUX-SPONSOR-bf5fff?style=for-the-badge&logoColor=white&labelColor=595959" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/☕_ZEROLINUX-KO--FI-00b9fe?style=for-the-badge&logoColor=white&labelColor=595959" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/💜_ZEROLINUX-SPONSOR-bf5fff?style=for-the-badge&logoColor=white&labelColor=595959" /></a>
 </div>
 
 <div align="center">
