@@ -25,6 +25,105 @@ Software developer and Linux enthusiast with a passion for open-source technolog
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=zerolinux-dev&stroke=ffffff&background=1c1917&ring=7F00FF&fire=7F00FF&currStreakNum=ffffff&currStreakLabel=7F00FF&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" alt="GitHub Streak" />
 </div>
 
+## 🏆 Achievements
+
+<div align="center">
+  <table>
+    <tr>
+      <td align="center">
+        <div style="background:#121212; border-radius:10px; padding:10px; margin:5px; width:150px; border:2px solid #ff69b4;">
+          <div style="color:#ff69b4; font-weight:bold; font-size:18px;">Pull Request</div>
+          <div style="margin:10px;">
+            <span style="background:#f9d423; color:black; font-weight:bold; display:inline-block; width:40px; height:40px; line-height:40px; border-radius:50%; font-size:20px;">S</span>
+          </div>
+          <div style="font-weight:bold; color:white;">Super Dev</div>
+          <div style="color:#ff69b4; font-size:14px;">17xp</div>
+          <div style="background:#ff69b4; height:5px; width:90%; margin:5px auto; border-radius:3px;"></div>
+        </div>
+      </td>
+      <td align="center">
+        <div style="background:#121212; border-radius:10px; padding:10px; margin:5px; width:150px; border:2px solid #ff69b4;">
+          <div style="color:#ff69b4; font-weight:bold; font-size:18px;">Commit</div>
+          <div style="margin:10px;">
+            <span style="background:#00ffff; color:black; font-weight:bold; display:inline-block; width:40px; height:40px; line-height:40px; border-radius:50%; font-size:20px;">A</span>
+          </div>
+          <div style="font-weight:bold; color:white;">Ultra Committer</div>
+          <div style="color:#ff69b4; font-size:14px;">24xp</div>
+          <div style="background:#ff69b4; height:5px; width:90%; margin:5px auto; border-radius:3px;"></div>
+        </div>
+      </td>
+      <td align="center">
+        <div style="background:#121212; border-radius:10px; padding:10px; margin:5px; width:150px; border:2px solid #ff69b4;">
+          <div style="color:#ff69b4; font-weight:bold; font-size:18px;">Repositories</div>
+          <div style="margin:10px;">
+            <span style="background:#ff6b6b; color:black; font-weight:bold; display:inline-block; width:40px; height:40px; line-height:40px; border-radius:50%; font-size:20px;">B</span>
+          </div>
+          <div style="font-weight:bold; color:white;">Middle Rare Creator</div>
+          <div style="color:#ff69b4; font-size:14px;">13xp</div>
+          <div style="background:#ff69b4; height:5px; width:60%; margin:5px auto; border-radius:3px;"></div>
+        </div>
+      </td>
+      <td align="center">
+        <div style="background:#121212; border-radius:10px; padding:10px; margin:5px; width:150px; border:2px solid #ff69b4;">
+          <div style="color:#ff69b4; font-weight:bold; font-size:18px;">Experience</div>
+          <div style="margin:10px;">
+            <span style="background:#ff6b6b; color:black; font-weight:bold; display:inline-block; width:40px; height:40px; line-height:40px; border-radius:50%; font-size:20px;">B</span>
+          </div>
+          <div style="font-weight:bold; color:white;">Junior Dev</div>
+          <div style="color:#ff69b4; font-size:14px;">9xp</div>
+          <div style="background:#ff69b4; height:5px; width:40%; margin:5px auto; border-radius:3px;"></div>
+        </div>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">
+        <div style="background:#121212; border-radius:10px; padding:10px; margin:5px; width:150px; border:2px solid #ff69b4;">
+          <div style="color:#ff69b4; font-weight:bold; font-size:18px;">Following</div>
+          <div style="margin:10px;">
+            <span style="background:#7f8cff; color:black; font-weight:bold; display:inline-block; width:40px; height:40px; line-height:40px; border-radius:50%; font-size:20px;">C</span>
+          </div>
+          <div style="font-weight:bold; color:white;">First Friend</div>
+          <div style="color:#ff69b4; font-size:14px;">4xp</div>
+          <div style="background:#ff69b4; height:5px; width:25%; margin:5px auto; border-radius:3px;"></div>
+        </div>
+      </td>
+      <td align="center">
+        <div style="background:#121212; border-radius:10px; padding:10px; margin:5px; width:150px; border:2px solid #ff69b4;">
+          <div style="color:#ff69b4; font-weight:bold; font-size:18px;">Stars</div>
+          <div style="margin:10px;">
+            <span style="background:#c9c9c9; color:black; font-weight:bold; display:inline-block; width:40px; height:40px; line-height:40px; border-radius:50%; font-size:20px;">?</span>
+          </div>
+          <div style="font-weight:bold; color:white;">Unknown</div>
+          <div style="color:#ff69b4; font-size:14px;">0xp</div>
+          <div style="background:#ff69b4; height:5px; width:10%; margin:5px auto; border-radius:3px;"></div>
+        </div>
+      </td>
+      <td align="center">
+        <div style="background:#121212; border-radius:10px; padding:10px; margin:5px; width:150px; border:2px solid #ff69b4;">
+          <div style="color:#ff69b4; font-weight:bold; font-size:18px;">Issues</div>
+          <div style="margin:10px;">
+            <span style="background:#c9c9c9; color:black; font-weight:bold; display:inline-block; width:40px; height:40px; line-height:40px; border-radius:50%; font-size:20px;">?</span>
+          </div>
+          <div style="font-weight:bold; color:white;">Unknown</div>
+          <div style="color:#ff69b4; font-size:14px;">0xp</div>
+          <div style="background:#ff69b4; height:5px; width:10%; margin:5px auto; border-radius:3px;"></div>
+        </div>
+      </td>
+      <td align="center">
+        <div style="background:#121212; border-radius:10px; padding:10px; margin:5px; width:150px; border:2px solid #ff69b4;">
+          <div style="color:#ff69b4; font-weight:bold; font-size:18px;">Reviews</div>
+          <div style="margin:10px;">
+            <span style="background:#c9c9c9; color:black; font-weight:bold; display:inline-block; width:40px; height:40px; line-height:40px; border-radius:50%; font-size:20px;">?</span>
+          </div>
+          <div style="font-weight:bold; color:white;">Unknown</div>
+          <div style="color:#ff69b4; font-size:14px;">0xp</div>
+          <div style="background:#ff69b4; height:5px; width:10%; margin:5px auto; border-radius:3px;"></div>
+        </div>
+      </td>
+    </tr>
+  </table>
+</div>
+
 ## 🚀 My Skills
 
 <div align="center">
