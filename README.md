@@ -51,6 +51,39 @@ Software developer and Linux enthusiast with a passion for open-source technolog
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zerolinux-dev&langs_count=6&title_color=7F00FF&text_color=ffffff&icon_color=7F00FF&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20Languages&layout=compact" alt="Top Languages" />
 </div>
 
+### Mobile app dev
+
+![Android](https://img.shields.io/badge/Android-3DDC84?logo=android&logoColor=white&style=for-the-badge)
+![Jetpack Compose](https://img.shields.io/badge/Jetpack%20Compose-4285F4?logo=jetpackcompose&logoColor=white&style=for-the-badge)
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?logo=kotlin&logoColor=white&style=for-the-badge)
+
+### Web dev
+
+![Astro](https://img.shields.io/badge/Astro-BC52EE?logo=astro&logoColor=white&style=for-the-badge)
+![daisyUI](https://img.shields.io/badge/daisyUI-1AD1A5?logo=daisyui&logoColor=white&style=for-the-badge)
+![HeroUI](https://img.shields.io/badge/HeroUI-000000?logo=nextui&logoColor=white&style=for-the-badge)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white&style=for-the-badge)
+![Next.js](https://img.shields.io/badge/Next.js-000000?logo=next.js&logoColor=white&style=for-the-badge)
+![Radix UI](https://img.shields.io/badge/Radix%20UI-161618?logo=radixui&logoColor=white&style=for-the-badge)
+![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black&style=for-the-badge)
+![React Query](https://img.shields.io/badge/React%20Query-FF4154?logo=reactquery&logoColor=white&style=for-the-badge)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?logo=tailwindcss&logoColor=white&style=for-the-badge)
+
+### Software
+
+![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84?logo=androidstudio&logoColor=white&style=for-the-badge)
+[![Blender](https://img.shields.io/badge/Blender-F5792A?logo=blender&logoColor=white&style=for-the-badge)](https://blender.org)
+![Fedora](https://img.shields.io/badge/Fedora-51A2DA?logo=fedora&logoColor=white&style=for-the-badge)
+[![Inkscape](https://img.shields.io/badge/Inkscape-000000?logo=inkscape&logoColor=white&style=for-the-badge)](https://inkscape.org)
+![Linux](https://img.shields.io/badge/Linux-FCC624?logo=Linux&logoColor=black&style=for-the-badge)
+![NeoVim](https://img.shields.io/badge/NeoVim-57A143?logo=neovim&logoColor=white&style=for-the-badge)
+
+## ✨ Other things
+
+- Favorite programming language: Rust. :crab:
+- Favorite technology: WebGPU.
+- Interests: breakdancing :man_dancing:, skateboarding :skateboard:.
+
 ## 🔧 Projects
 
 ### [Linux System Optimizer](https://github.com/zerolinux-dev/linux-system-optimizer)
