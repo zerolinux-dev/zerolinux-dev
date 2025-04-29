@@ -99,3 +99,7 @@ Tool for scanning Docker containers for vulnerabilities and potential security i
 <div align="center">
   <i>"The only way to do great work is to love what you do." - Steve Jobs</i>
 </div>
+  
+## 🏆 GitHub Trophies
+
+![](https://github-profile-trophy.vercel.app/?username=PluckyPrecious&theme=discord&no-frame=true&no-bg=false&margin-w=4)
