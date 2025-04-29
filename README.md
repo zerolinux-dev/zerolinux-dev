@@ -10,6 +10,10 @@
   <a href="#"><img src="https://img.shields.io/badge/DE-KDE-3daee9?style=for-the-badge&logo=kde&logoColor=white&labelColor=595959" /></a>
   <a href="#"><img src="https://img.shields.io/badge/ARCH-637ce6?style=for-the-badge&logoColor=white&labelColor=00a5cf" /></a>
 </div>
+  
+## 🏆 GitHub Trophies
+
+![](https://github-profile-trophy.vercel.app/?username=PluckyPrecious&theme=discord&no-frame=true&no-bg=false&margin-w=4)
 
 <hr/>
 
@@ -100,6 +104,3 @@ Tool for scanning Docker containers for vulnerabilities and potential security i
   <i>"The only way to do great work is to love what you do." - Steve Jobs</i>
 </div>
   
-## 🏆 GitHub Trophies
-
-![](https://github-profile-trophy.vercel.app/?username=PluckyPrecious&theme=discord&no-frame=true&no-bg=false&margin-w=4)
