@@ -1,4 +1,24 @@
 <p align="center">
+  <img src="https://github.com/zerolinux-dev/zerolinux-dev/raw/main/file_00000000af10620ab7822fbc173513a4.png" alt="OWN THE BEAST" width="600"/>
+</p>
+
+<p align="center">
+  <a href="https://t.me/zerolinux_7x" target="_blank">
+    <img src="https://img.shields.io/badge/BUY%20NOW-%F0%9F%94%A5-orange?style=for-the-badge" alt="Buy Now 🔥"/>
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://t.me/zerolinux_7x" target="_blank">
+    <img src="https://img.shields.io/badge/Join%20the%20Dark%20Legion-%F0%9F%95%B7%EF%B8%8F-black?style=for-the-badge" alt="Join the Dark Legion 🕷️"/>
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/%F0%9F%94%A5%20123%20Beast%20Owners-red?style=for-the-badge" alt="🔥 123 Beast Owners"/>
+</p>
+
+<p align="center">
   <img src="https://img.shields.io/badge/Version-2.0-blueviolet?style=for-the-badge&logo=python" />
   <img src="https://img.shields.io/badge/Linux-Supported-success?style=for-the-badge&logo=linux" />
   <img src="https://img.shields.io/badge/Termux-Ready-brightgreen?style=for-the-badge&logo=android" />
