@@ -17,39 +17,6 @@
 
 <hr/>
 
-## 👨‍💻 About Me
-
-Software developer and Linux enthusiast with a passion for open-source technologies. Specialized in system optimization, DevOps practices, and creating efficient development workflows. Arch Linux advocate and KDE Plasma user.
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=zerolinux-dev&show_icons=true&hide=&count_private=true&title_color=7F00FF&text_color=ffffff&icon_color=7F00FF&bg_color=1c1917&hide_border=true&show_icons=true" alt="ZeroLinux GitHub Stats" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=zerolinux-dev&stroke=ffffff&background=1c1917&ring=7F00FF&fire=7F00FF&currStreakNum=ffffff&currStreakLabel=7F00FF&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" alt="GitHub Streak" />
-</div>
-
-## 🚀 My Skills
-
-<div align="center">
-  <p align="center">
-    <a href="#"><img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" /></a>
-    <a href="#"><img src="https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white" /></a>
-    <a href="#"><img src="https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white" /></a>
-    <a href="#"><img src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white" /></a>
-    <a href="#"><img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" /></a>
-    <a href="#"><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" /></a>
-    <a href="#"><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" /></a>
-    <a href="#"><img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" /></a>
-    <a href="#"><img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=Jenkins&logoColor=white" /></a>
-    <a href="#"><img src="https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white" /></a>
-    <a href="#"><img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" /></a>
-  </p>
-</div>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zerolinux-dev&langs_count=6&title_color=7F00FF&text_color=ffffff&icon_color=7F00FF&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20Languages&layout=compact" alt="Top Languages" />
-</div>
 
 ### Mobile app dev
 
