@@ -37,6 +37,7 @@
   <img src="https://media.tenor.com/Hq8d2g1mV7sAAAAC/hell-gate.gif" width="600px" />
 </p>
 
+[![Downloads](https://img.shields.io/github/downloads/dannagle/PacketSender/total.svg)](https://packetsender.com/download)
 ---
 
 <h3 align="center">🩸 Dare to Connect 🩸</h3>
