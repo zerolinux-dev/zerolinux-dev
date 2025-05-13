@@ -51,36 +51,6 @@
 - Favorite technology: WebGPU.
 - Interests: breakdancing :man_dancing:, skateboarding :skateboard:.
 
-## 🔧 Projects
-
-### [Linux System Optimizer](https://github.com/zerolinux-dev/linux-system-optimizer)
-Performance optimization tool for Linux systems with security enhancements and resource management capabilities.
-
-### [DevOps Automation Toolkit](https://github.com/zerolinux-dev/devops-automation-toolkit)
-Collection of scripts and tools for automating DevOps workflows and continuous deployment processes.
-
-### [Container Security Scanner](https://github.com/zerolinux-dev/container-security-scanner)
-Tool for scanning Docker containers for vulnerabilities and potential security issues.
-
-## 📚 War Fundraiser
-
-<div align="center">
-  <a href="#"><img src="https://img.shields.io/badge/☕_ZEROLINUX-KO--FI-00b9fe?style=for-the-badge&logoColor=white&labelColor=595959" /></a>
-  <a href="#"><img src="https://img.shields.io/badge/💜_ZEROLINUX-SPONSOR-bf5fff?style=for-the-badge&logoColor=white&labelColor=595959" /></a>
-</div>
-
-<div align="center">
-  <img src="https://github.com/zerolinux-dev/zerolinux-dev/raw/main/assets/neofetch.png" alt="Neofetch Screenshot" width="600" />
-</div>
-
-## 🌐 Connect with us on Social
-
-<div align="center">
-  <a href="https://www.youtube.com/channel/UCylGUf2qUvMdk6u3MF1fzSQ"><img src="https://img.shields.io/badge/Youtube-1.8k-ff0000?style=for-the-badge&logo=youtube&logoColor=white&labelColor=595959" /></a>
-  <a href="https://fosstodon.org/@zerolinux"><img src="https://img.shields.io/badge/Fosstodon-1k-6364ff?style=for-the-badge&logo=mastodon&logoColor=white&labelColor=595959" /></a>
-  <a href="https://discord.gg/zerolinux"><img src="https://img.shields.io/badge/Discord-37_online-5865f2?style=for-the-badge&logo=discord&logoColor=white&labelColor=595959" /></a>
-</div>
-
 ## 📫 Contact Me
 
 <p align="center">
