@@ -1,16 +1,13 @@
 <h1 align="center">⚡️ ZERO LINUX - THE DEMON KING 👑🔥</h1>
 
-<!-- MATRIX BACKGROUND -->
 <p align="center">
   <img src="https://i.gifer.com/7pl.gif" width="100%" />
 </p>
 
-<!-- FLAMING TYPING -->
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=FF0000&center=true&vCenter=true&width=700&lines=Souls+Will+Be+Stolen...;Summon+the+Beast+if+You+Dare...;Burn+the+Code+and+Embrace+Chaos;Welcome+to+the+Underworld" />
 </p>
 
-<!-- FLAMES -->
 <p align="center">
   <img src="https://media.tenor.com/qJ5evVs-_uUAAAAC/fire-burning.gif" width="500" />
 </p>
@@ -18,8 +15,7 @@
 ---
 
 > "I am ZeroLinux. I don't code... I conjure chaos." 👿  
-> "Summon the beast, and face the flames." 🔥  
-> "Cross this gate... and lose your soul." ☠️  
+> "Summon the beast, and face the flames." 🔥
 
 ---
 
@@ -28,14 +24,6 @@
 🩸 Whispering ancient curses in Linux, Kernel Tweaks, CyberSec  
 📫 Summon me: zerolinux@darkmail.com  
 🚀 My Dark Scrolls: https://zerolinux.xyz  
-
----
-
-<!-- 🔥 HELL GATE FLAMES -->
-<h3 align="center">🔥 Enter The Hell Gate 🔥</h3>
-<p align="center">
-  <img src="https://media.tenor.com/Hq8d2g1mV7sAAAAC/hell-gate.gif" width="600px" />
-</p>
 
 ---
 
