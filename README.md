@@ -1,5 +1,7 @@
 <h1 align="center">⚡️ ZERO LINUX - THE DEMON KING 👑🔥</h1>
 
+<h1> Hi there! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h1>
+
 <!-- MATRIX BACKGROUND -->
 <p align="center">
   <img src="https://i.gifer.com/7pl.gif" width="100%" />
